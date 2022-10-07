@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Paul-Jesse13
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning HTML, CSS, C#/C++ and Unity
 - 💞️ I’m looking to collaborate on Website development
 - 📫 How to reach me contact me on whatsapp: +2347058454307
 
